@@ -8,7 +8,15 @@ IMAGES = ['%s/resources/1.jpg' % script_path,
           '%s/resources/4.jpg' % script_path,
           '%s/resources/5.jpg' % script_path,
           '%s/resources/6.jpg' % script_path,
-          '%s/resources/7.jpg' % script_path]
+          '%s/resources/7.jpg' % script_path,
+          '%s/resources/8.jpg' % script_path,
+          '%s/resources/9.jpg' % script_path,
+          '%s/resources/10.jpg' % script_path,
+          '%s/resources/11.jpg' % script_path,
+          '%s/resources/12.jpg' % script_path,
+          '%s/resources/13.jpg' % script_path,
+          '%s/resources/14.jpg' % script_path,
+          '%s/resources/15.jpg' % script_path]
 
 VIDEOS = ['%s/resources/1.flv' % script_path, ]
 
